@@ -78,5 +78,3 @@ Sử dụng các công cụ monitoring để theo dõi hiệu suất và sự c�
 - Uptime monitoring
 - Performance monitoring
 - Security scanning
-
-Bằng cách tuân thủ các bước trên, bạn sẽ có một trang WordPress được cài đặt an toàn, hiệu quả và được tối ưu hóa cho SEO.
