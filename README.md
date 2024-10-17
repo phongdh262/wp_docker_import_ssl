@@ -39,6 +39,13 @@ Dự án này hướng dẫn cách cài đặt và cấu hình một trang WordP
 Tạo file `.env` trong thư mục gốc của dự án với nội dung sau:
 
 ```
+# Cấu hình WordPress
+WORDPRESS_DB_HOST=db:3306
+WORDPRESS_DB_USER=phongdh_wordpress
+WORDPRESS_DB_PASSWORD=4U-?QH^26g
+WORDPRESS_DB_NAME=phongdh_wordpress
+
+# Cấu hình MariaDB
 MYSQL_ROOT_PASSWORD=4U-?QH^26g
 MYSQL_DATABASE=phongdh_wordpress
 MYSQL_USER=phongdh_wordpress
