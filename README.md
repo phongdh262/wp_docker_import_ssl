@@ -39,10 +39,10 @@ Dự án này hướng dẫn cách cài đặt và cấu hình một trang WordP
 Tạo file `.env` trong thư mục gốc của dự án với nội dung sau:
 
 ```
-MYSQL_ROOT_PASSWORD=Gwvq8RpjnsRpprM
+MYSQL_ROOT_PASSWORD=4U-?QH^26g
 MYSQL_DATABASE=phongdh_wordpress
 MYSQL_USER=phongdh_wordpress
-MYSQL_PASSWORD=UYXpdx35UYXpdx35
+MYSQL_PASSWORD=4U-?QH^26g
 ```
 
 ### Bước 4: Khởi động các container
